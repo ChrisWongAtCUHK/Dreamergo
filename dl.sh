@@ -2,7 +2,7 @@
 # Load the files for proxy & download
 #
 proxy=$(head -1 proxy.txt)
-user=$(head -1 proxy.txt | tail -1)
+user=$(head -2 proxy.txt | tail -1)
 
 # get the urls from a text file(line by line)
 for url in $(cat urls.txt); do
