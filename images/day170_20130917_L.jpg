@@ -1,0 +1,36 @@
+<HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD>
+<BODY>
+<FONT face="Helvetica">
+<big><strong></strong></big><BR>
+</FONT>
+<blockquote>
+<TABLE border=0 cellPadding=1 width="80%">
+<TR><TD>
+<FONT face="Helvetica">
+<big>Access Denied (authentication_failed)</big>
+<BR>
+<BR>
+</FONT>
+</TD></TR>
+<TR><TD>
+<FONT face="Helvetica">
+You have input the incorrect Internet username/password for accessing the Internet via the HA's Internet Proxy Server.
+</FONT>
+</TD></TR>
+<TR><TD>
+<FONT face="Helvetica">
+<BR>If you have forgotten your Internet username/password or need assistance, please contact HA ITS Call Center on 2515 2653 or send an Email to hoitcallcentre@pyn.ha.org.hk
+</FONT>
+</TD></TR>
+<TR><TD>
+<FONT face="Helvetica" SIZE=2>
+<BR>
+ 
+</FONT>
+</TD></TR>
+</TABLE>
+</blockquote>
+</FONT>
+</BODY></HTML>
